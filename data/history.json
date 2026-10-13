@@ -1,0 +1,88 @@
+{
+  "runs": [
+    {
+      "treasure": 19,
+      "reachedLevel": 1,
+      "defeatedEnemies": 1,
+      "foodEaten": 0,
+      "elixirsDrunk": 0,
+      "scrollsRead": 0,
+      "hitsDealt": 8,
+      "hitsReceived": 13,
+      "cellsWalked": 30,
+      "won": false
+    },
+    {
+      "treasure": 89,
+      "reachedLevel": 3,
+      "defeatedEnemies": 4,
+      "foodEaten": 2,
+      "elixirsDrunk": 0,
+      "scrollsRead": 3,
+      "hitsDealt": 20,
+      "hitsReceived": 19,
+      "cellsWalked": 346,
+      "won": false
+    },
+    {
+      "treasure": 0,
+      "reachedLevel": 1,
+      "defeatedEnemies": 0,
+      "foodEaten": 0,
+      "elixirsDrunk": 0,
+      "scrollsRead": 0,
+      "hitsDealt": 0,
+      "hitsReceived": 10,
+      "cellsWalked": 9,
+      "won": false
+    },
+    {
+      "treasure": 36,
+      "reachedLevel": 3,
+      "defeatedEnemies": 2,
+      "foodEaten": 1,
+      "elixirsDrunk": 1,
+      "scrollsRead": 1,
+      "hitsDealt": 9,
+      "hitsReceived": 13,
+      "cellsWalked": 353,
+      "won": false
+    },
+    {
+      "treasure": 30,
+      "reachedLevel": 1,
+      "defeatedEnemies": 1,
+      "foodEaten": 1,
+      "elixirsDrunk": 0,
+      "scrollsRead": 0,
+      "hitsDealt": 8,
+      "hitsReceived": 15,
+      "cellsWalked": 32,
+      "won": false
+    },
+    {
+      "treasure": 0,
+      "reachedLevel": 1,
+      "defeatedEnemies": 0,
+      "foodEaten": 0,
+      "elixirsDrunk": 0,
+      "scrollsRead": 0,
+      "hitsDealt": 2,
+      "hitsReceived": 13,
+      "cellsWalked": 12,
+      "won": false
+    },
+    {
+      "treasure": 42,
+      "reachedLevel": 1,
+      "defeatedEnemies": 2,
+      "foodEaten": 0,
+      "elixirsDrunk": 0,
+      "scrollsRead": 0,
+      "hitsDealt": 10,
+      "hitsReceived": 12,
+      "cellsWalked": 211,
+      "won": false
+    }
+  ]
+}
